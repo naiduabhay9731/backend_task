@@ -7,8 +7,9 @@ Here SECRET_KEY ,CURL are constraints given in the task where SECRET_KEY is the 
 Server deployed and live.
 
 API Endpoints - 
-1.https://backend-task-szi1.onrender.com/api/blog-stats
-2.https://backend-task-szi1.onrender.com/api/blog-search?query=Flutter 
+[Blog Stats API](https://backend-task-szi1.onrender.com/api/blog-stats)
+
+[Blog Search API with Query "Flutter"](https://backend-task-szi1.onrender.com/api/blog-search?query=Flutter)
 
 
 First api is for the blog statistics.
